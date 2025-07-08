@@ -6,4 +6,7 @@ public class HelloWorld {
 	public static void show1() {
 		System.out.println("show1");
 	}
+	public static void show2() {
+		System.out.println("show2");
+	}
 }
